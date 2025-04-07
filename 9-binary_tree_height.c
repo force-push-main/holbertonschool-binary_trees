@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_height - entry point
- *
+ * tree: root of tree
  * Description: finds height of tree
  * Return: height of tree
  */
